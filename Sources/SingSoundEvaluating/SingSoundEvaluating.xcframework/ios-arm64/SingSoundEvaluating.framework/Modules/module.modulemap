@@ -1,0 +1,6 @@
+framework module SingSoundEvaluating {
+  umbrella header "SingSoundEvaluating.h"
+
+  export *
+  module * { export * }
+}
