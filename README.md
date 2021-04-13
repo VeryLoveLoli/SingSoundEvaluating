@@ -4,7 +4,7 @@
 
 ### bundle
 
-`TencentOpenApi_IOS_Bundle.bundle` 直接添加到主项目，放在 `SwiftPackage` 会包含在默认的 `bundle` 下
+`SingSound.Bundle` 直接添加到主项目，放在 `SwiftPackage` 会包含在默认的 `bundle` 下
 
 ### libs
 
