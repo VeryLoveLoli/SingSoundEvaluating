@@ -21,5 +21,5 @@ FOUNDATION_EXPORT const unsigned char SingSoundEvaluatingVersionString[];
 
 /// 先声教育声音评测头文件
 #import <SingSoundEvaluating/SSOralEvaluatingConfig.h>
-#import <SingSoundEvaluating/SSOralEvaluatingManagerConfig.h>
+#import <SingSoundEvaluating/SSOralEvaluatingManager.h>
 #import <SingSoundEvaluating/SSOralEvaluatingManagerConfig.h>
